@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **personnal managment**
 
-- 🌱 I’m currently learning **laravel Framework**
+- 🌱 I’m currently learning **Machine learning and IA**
 
 - 🤝 I'm open to collaborating on **Projects**
 
