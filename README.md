@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/Laravel-05122A?logo=laravel"/>
 <img src="https://img.shields.io/badge/Figma-05122A?logo=figma"/>
 <img src="https://img.shields.io/badge/Bootstrap-05122A?logo=Bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind-05122A?logo=Tailwind"/> 
 <img src="https://img.shields.io/badge/Git-05122A?logo=git"/>
 <img src="https://img.shields.io/badge/SonarQube-05122A?logo=SonarQube"/>
 <img src="https://img.shields.io/badge/GitLab-05122A?logo=gitlab"/>
