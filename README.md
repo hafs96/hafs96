@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Pandas-05122A?logo=Pandas"/>
 <img src="https://img.shields.io/badge/TensorFlow-05122A?logo=tensorflow"/>
 <img src="https://img.shields.io/badge/Scikitlearn-05122A?logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Seaborn-05122A?logo=seaborn"/>
+<img src="https://img.shields.io/badge/Seaborn-05122A?logo=Seaborn"/>
 </div>
 
 <h3>
