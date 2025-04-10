@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/Git-05122A?logo=git"/>
 <img src="https://img.shields.io/badge/SonarQube-05122A?logo=SonarQube"/>
 <img src="https://img.shields.io/badge/GitLab-05122A?logo=gitlab"/>
+<img src="https://img.shields.io/badge/Postman-05122A?logo=Postman"/>
 <img src="https://img.shields.io/badge/Jira-05122A?logo=jira"/>
 <img src="https://img.shields.io/badge/Docker-05122A?logo=Docker"/>
 <img src="https://img.shields.io/badge/Python-05122A?logo=Python"/>
