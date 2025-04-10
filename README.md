@@ -1,5 +1,3 @@
-![hafssa](https://github.com/user-attachments/assets/95985530-9a72-4299-9f96-56c3e92f529e)<img align="right" width="150" height="150" style="border-radius: 50%;" src="https://github.com/hafs96.png"/>
-<br><br>
 
 <div align="center">
   <img src ="./hafsa.png" />
