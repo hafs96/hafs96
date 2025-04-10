@@ -19,6 +19,8 @@
 
 - 💬 Ask me about **sql,php,python,js...**
 
+- 👩‍💻✨ Fuel your growth: New tech in, shared knowledge out 💡➡️🎉
+
 - 📫 You can contact me at **hafzian1996@gmail.com**
 
 - ⚡ Fun fact **I am Superwomen,Tell Everyone**
