@@ -1,5 +1,13 @@
-<img align="right" width="150" height="150" style="border-radius: 50%;" src="https://github.com/hafs96.png"/>
+![hafssa](https://github.com/user-attachments/assets/95985530-9a72-4299-9f96-56c3e92f529e)<img align="right" width="150" height="150" style="border-radius: 50%;" src="https://github.com/hafs96.png"/>
 <br><br>
+
+<div align="center">
+  <img src ="./hafsa.png" />
+  
+</div>
+
+ <br/>
+
 <h1 align="left"">
   Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>I'm Hafsa Zian
 </h1>
