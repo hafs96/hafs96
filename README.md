@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-05122A?logo=tensorflow"/>
 <img src="https://img.shields.io/badge/Scikitlearn-05122A?logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Seaborn-05122A?logo=Seaborn"/>
-
+<img src="https://img.shields.io/badge/MARKDOWN-05122A?logo=MARKDOWN"/>
 </div>
 
 <h3>
